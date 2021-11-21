@@ -7,10 +7,10 @@ As a third year Neuroscience major as Dalhousie University I am completing a res
 ## Code Snippets
 * To start things off, click [here](reading_files2.md) to take a look at my code from assignment 3 where I read a files and merge multiple files into one DataFrame.
 
-check out how I [clean data](cleaning_data.md).
+* Check out how I [cleaned data](cleaning_data.md) in assignment 1 and 3.
 
-How I plot [histograms](plotting_data.md).
+* In assignment 3 I visualized data from a flanker experiment with Pandas and Seaborn [histograms](plotting_data.md).
 
-Here is how I manage data from a [single neuron](single_unit.md). 
+* Over the couple weeks we have learned about managing data from single units. [Here](single_unit.md) is how I extracted and plotted data from a single neuron.
 
 
