@@ -13,4 +13,5 @@ As a third year Neuroscience major as Dalhousie University I am completing a res
 
 * Over the couple weeks we have learned about managing data from single units. [Here](single_unit.md) is how I extracted and plotted data from a single neuron.
 
-
+## Questions?
+Feel free to email me at [brynn.hs@dal.ca](mailto:brynn.hs@dal.ca)
