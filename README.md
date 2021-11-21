@@ -6,5 +6,6 @@ check out how I [clean data](cleaning_data.md).
 
 How I plot [histograms](plotting_data.md).
 
-Here is how I manage data from a [single neuron](single_unit.md).
+Here is how I manage data from a [single neuron](single_unit.md). or [here](single_unit.ipynb).
+
 
