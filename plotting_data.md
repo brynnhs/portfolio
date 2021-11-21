@@ -65,7 +65,7 @@ plt.show()
 
 
     
-![png](plotting_data_files/plotting_data_9_0.png)
+![png](plotting_data_seab.png)
     
 
 
