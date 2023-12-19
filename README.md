@@ -12,6 +12,4 @@ I am a third year Neuroscience major at [Dalhousie University](dal.ca) in Halifa
 * In assignment 3 I visualized data from a flanker experiment with Pandas and Seaborn [histograms](plotting_data.md).
 
 * Over the couple weeks we have learned about managing data from single units. [Here](single_unit.md) is how I extracted and plotted data from a single neuron.
-
-## Questions?
-Feel free to email me at [brynn.hs@dal.ca](mailto:brynn.hs@dal.ca)
+## 
